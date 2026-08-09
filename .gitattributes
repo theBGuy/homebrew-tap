@@ -1,0 +1,3 @@
+# The release pipeline's cask bump rewrites version/sha256 with $-anchored
+# seds; a CRLF checkout would silently defeat them. Keep everything LF.
+* text=auto eol=lf
