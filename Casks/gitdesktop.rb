@@ -1,6 +1,6 @@
 cask "gitdesktop" do
-  version "0.12.1"
-  sha256 "b4c19dca574c9311509bf21bc69feacc0febfcdd2166518ce54c119774972328"
+  version "0.12.2"
+  sha256 "1612e9df5cfadf05a2d3be7c1efafed6041d0bbf92aba9961951c7a8b5f1ca93"
 
   url "https://github.com/theBGuy/GitDesktop/releases/download/v#{version}/GitDesktop_#{version}_universal.dmg"
   name "GitDesktop"
